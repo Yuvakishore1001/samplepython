@@ -1,1 +1,2 @@
 a="yuva"
+print(a)
