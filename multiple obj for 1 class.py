@@ -1,0 +1,1 @@
+class myclass():    def display(self):        print("good morning")mc1=myclass()    #named objectmc1.display()mc2=myclass()mc2.display()# mc1.display()    #named object# myclass().display()        #nameless object

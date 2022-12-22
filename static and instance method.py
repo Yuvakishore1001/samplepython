@@ -1,0 +1,1 @@
+class myclass():    def func(self):        print("instance method")    @staticmethod    def func1():        print("static method")mc=myclass()mc.func()myclass.func1()# for static method no need to mention self in the def
