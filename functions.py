@@ -4,3 +4,6 @@ def sum(start,end):
         result=result+i
     print(result)
 
+
+sum(10,20)
+sum(23,25)
