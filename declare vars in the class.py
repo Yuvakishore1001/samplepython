@@ -1,0 +1,1 @@
+class myclass():    a,b=10,20    def add(self):        print(self.a+self.b)    def mul(self):        print(self.a*self.b)mc=myclass()mc.add()mc.mul()# class variables can be accessed by using SELF keyword
