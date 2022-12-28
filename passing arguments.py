@@ -6,7 +6,7 @@ def fun(i,j=100):
 
 fun(50)   #50 100   positional parameters
 
-fun(100,250)  #250 will go anďsit in the already allocated value of j
+fun(100,250)  #250 will go and sit in the already allocated value of j
 
 # keyword  arguments
 
